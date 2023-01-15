@@ -15,4 +15,4 @@
 - 성균관대학교 소프트웨어학과 유지훈 (jihooni0914)
 
 ### link
-https://github.com/jihooni0914/Yu-say-Kim---Assignment-3
+https://github.com/jihooni0914/Yu-say-Kim-Assignment-3
